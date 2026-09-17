@@ -67,7 +67,7 @@ ITが苦手でも大丈夫！コピペとクリックだけで完結。
 ## ご購入はこちら
 以下の安全な決済リンク（Stripe）からクレジットカード等でご購入いただけます。決済完了後、完全版データがダウンロード可能になります。
 
-<a href="https://buy.stripe.com/aFaeV70230P96wDdV27Zu05" style="display:inline-block; padding:15px 30px; background-color:#635BFF; color:white; font-size:18px; text-decoration:none; border-radius:5px; font-weight:bold;">購入手続きへ進む（2,980円）</a>
+<a href="https://buy.stripe.com/4gM14heWX41l9IP5ow7Zu06" style="display:inline-block; padding:15px 30px; background-color:#635BFF; color:white; font-size:18px; text-decoration:none; border-radius:5px; font-weight:bold;">購入手続きへ進む（2,980円）</a>
 
 
 <br><hr>
